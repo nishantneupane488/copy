@@ -1,0 +1,82 @@
+[
+    {
+        "room": "Taj Hotel",
+        "roomNo": 1,
+        "roomtype": "A Type",
+        "roomprice": 100,
+        "roomstatus":true,
+        "imgurl": "https://static.theprint.in/wp-content/uploads/2022/10/Hotel.jpg?compress=true&quality=80&w=376&dpr=2.6"
+    },
+    {
+        "room": "Taj Hotel-2",
+        "roomNo": 2,
+        "roomtype": "A Type",
+        "roomprice": 100,
+        "roomstatus":true,
+        "imgurl": "https://thumbs.dreamstime.com/b/hotel-bed-room-21064950.jpg"
+    },
+    {
+        "room": "Taj Hotel-3",
+        "roomNo": 3,
+        "roomtype": "B Type",
+        "roomprice": 80,
+        "roomstatus":true,
+        "imgurl": "https://media-cdn.tripadvisor.com/media/photo-s/0c/0f/da/a3/3-star-hotel-room-pictures.jpg"
+    },
+    {
+        "room": "Taj Hotel-4",
+        "roomNo": 4,
+        "roomtype": "B Type",
+        "roomprice": 80,
+        "roomstatus":true,
+        "imgurl": "https://www.udaipurian.com/wp-content/uploads/2020/02/hotel-meenakshi-udaipur-udaipurian.jpg"
+    },
+    {
+        "room": "Taj Hotel-5",
+        "roomNo": 5,
+        "roomtype": "B type",
+        "roomprice": 80,
+        "roomstatus":true,
+        "imgurl": "https://alacritys.in/wp-content/uploads/2020/11/Hotel-Design-1.jpg"
+    },
+    {
+        "room": "Taj Hotel-6",
+        "roomNo": 6,
+        "roomtype": "C Type",
+        "roomprice": 50,
+        "roomstatus":true,
+        "imgurl": "https://pediaa.com/wp-content/uploads/2017/01/Difference-Between-2-Star-and-3-Star-Hotels-1.jpg"
+    },
+    {
+        "room": "Taj Hotel-7",
+        "roomNo": 7,
+        "roomtype": "C type",
+        "roomprice": 50,
+        "roomstatus":true,
+        "imgurl": "https://media-cdn.tripadvisor.com/media/photo-s/16/95/80/b6/deluxe-ac-room.jpg"
+    },
+    {
+        "room": "Taj Hotel-8",
+        "roomNo": 8,
+        "roomtype": "C Type",
+        "roomprice": 50,
+        "roomstatus":true,
+        "imgurl": "https://media-cdn.tripadvisor.com/media/photo-s/15/59/5e/5e/hotel-sunshine.jpg"
+    },
+    {
+        "room": "Taj Hotel-9",
+        "roomNo": 9,
+        "roomtype": "C Type",
+        "roomprice": 50,
+        "roomstatus":true,
+        "imgurl": "https://im.hunt.in/cg/shimla/City-Guide/two-star-hotels-inShimla.jpg"
+    },
+    {
+        "room": "Taj Hotel-10",
+        "roomNo": 10,
+        "roomtype": "C Type",
+        "roomprice": 50,
+        "roomstatus":true,
+        "imgurl": "https://malindians.com/wp-content/uploads/2022/07/Room-size-in-2-star-hotels.jpg"
+    }
+]

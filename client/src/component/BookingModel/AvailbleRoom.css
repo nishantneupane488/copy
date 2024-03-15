@@ -1,0 +1,93 @@
+.A_R_main_1{
+
+    background: #ffffff ;
+    height: 65px;
+    width: 85%;
+    margin-left: 7.5%;
+    /* margin-top: 1%; */
+    display: flex;
+}
+.A_R_main_11{
+
+    background: #ffffff ;
+    height: 63px;
+    width: 25%;
+    margin-left: 7.5%;
+    /* margin-top: 1%; */
+    text-align: center;
+    justify-content: space-between;
+}
+.A_R_main_2{
+
+    background: #ffffff ;
+    height: 690px;
+    width: 85%;
+    margin-left: 7.5%;
+    margin-top: 1%;
+    position: absolute;
+    overflow-x: hidden;
+    overflow-y: auto;
+    text-align:justify;
+
+}
+.A_R_main_21{
+
+    background: #ffffff ;
+    height: 210px;
+    width: 85%;
+    margin-left: 7.5%;
+    margin-top: 1%;
+    display: flex;
+    box-shadow: 5px 5px 5px 0px rgb(255, 255, 255);
+        box-shadow: 5px 5px 5px 0px rgb(135, 149, 152);
+
+        
+
+
+
+}
+.A_R_main_211{
+
+    background: #ffffff ;
+    height: 210px;
+    width: 27%;
+    margin-left: 4.6%;
+
+    justify-content: space-between;
+
+    /* box-shadow: 5px 5px 5px 0px rgb(135, 149, 152); */
+    
+
+
+}
+
+
+.btn_armain{
+
+    height: 30%;
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    margin-left: 25%;
+    margin-top: 35%;
+    color: black;
+    /* font-size: 100%; */
+    font-weight: bold;
+    text-align: center;
+    
+    vertical-align: middle;
+
+    /* margin-top:  */
+    margin-top: 6.2%;
+    border: 0px solid rgb(255, 255, 255);
+    margin: 70px 10px 10px 80px;
+  /* width: 50%; */
+  border: 3px solid rgb(255, 255, 255);
+  padding: 10px;
+}
+
+.btn_armain:hover{
+    background: #000000;
+    color: #ffffff;
+    border-radius: 10px;
+}

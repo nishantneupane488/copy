@@ -1,0 +1,59 @@
+.Rooms-one{
+
+    height: 210px;
+    width: 800px;
+    /* background: #ae2626; */
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    /* padding-top: 20px; */
+ margin-top: 25px;
+    box-shadow: 5px 5px 5px 0px rgb(135, 149, 152);
+
+
+  
+
+}
+.RoomImage{
+    background-color: rgb(84, 88, 10);
+    height: 160px;
+    width: 350px;
+    box-shadow: 5px 5px 5px 1px rgb(135, 149, 152);
+}
+.RoomData{
+    background: #ffffff;
+    height: 210px;
+    width: 350px;
+    /* box-shadow: 5px 5px 5px 1px rgb(135, 149, 152); */
+
+}
+.RoomData-2{
+    /* margin-top: 40px; */
+    margin-bottom: 10px;
+    /* margin-bottom: 10px; */
+    /* height: 100px; */
+    text-align: left;
+    margin-left: 20px;
+    /* position: absolute; */
+
+
+}
+.btn_Rooms{
+
+
+
+    height: 50px;
+    width: 100px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+   font-weight: bolder;
+   border: .1px solid rgb(255, 255, 255);
+   font-size: large;
+    margin-left: 120px;
+}
+.btn_Rooms:hover {
+    cursor: pointer;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
